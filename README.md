@@ -4,4 +4,5 @@ Hier wird ein "Gebäudepass" entwickelt, der alle relevanten, energiebezogenen I
 
 # Weitere Informationen: 
 https://hack.opendata.ch/project/339 
+
 http://abdagon.wwwnl1-ls3.a2hosted.com/bp/web/ 
